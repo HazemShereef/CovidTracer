@@ -70,3 +70,4 @@ export const fetchData = (data) => dispatch => {
         .catch(err => console.log(err))
 }
 
+src
